@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Dentist",
+    "price": 1000,
+    "description": "Now you can book a dentist via Online!",
+    "img": "https://i.ibb.co/31BQfqW/dentist.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dermatologist",
+    "price": 2000,
+    "description": "A dermatologist is a doctor who specializes in conditions involving the skin, hair, and nails.Book a Dermatologist now!",
+    "img": "https://i.ibb.co/BtwzGRs/Woman-visiting-cosmetologist-and-making-rejuvenation-procedures.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Medic",
+    "price": 100,
+    "description": "From Now on you can buy medic by us!Starting from 100 taka",
+    "img": "https://i.ibb.co/wQStNWs/high-angle-pill-foils-plastic-containers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Online consultants",
+    "price": 500,
+    "description": "Book an online consultants! Staring from 500 taka",
+    "img": "https://i.ibb.co/HzKLvjy/online-consultation.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Surgery",
+    "price": 30000,
+    "description": "Surgeons are here for you!Book a date!Starting from 30,000 taka",
+    "img": "https://i.ibb.co/jRQW8ZJ/surgeons.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Medic Tools",
+    "price": 400,
+    "description": "Buy medic tools!Book Now! Starting from 400 taka only",
+    "img": "https://i.ibb.co/RYQTndG/tools.jpg"
+  }
+]
