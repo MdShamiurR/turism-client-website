@@ -5,7 +5,7 @@ import notfound from '../../images/404.png'
 const NotFound = () => {
     return (
         <div>
-            <img style={{ width: '100%' }} src={notfound} alt="" />
+            <img style={{ width: '500px', height: '500px' }} src={notfound} alt="" />
             <Link to="/">Go Back</Link>
         </div>
     );
